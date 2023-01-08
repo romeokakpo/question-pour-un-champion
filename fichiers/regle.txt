@@ -1,0 +1,35 @@
+Questions pour un champion :
+Cette edition du jeu reproduit tres fidelement (pour ne pas dire parfaitement) le deroulement du jeu
+teelevise.
+Au debut, quatre candidats.
+
+1re manche : Neuf points gagnants
+Dans cette manche, une serie de questions sont posees. Le joueur appuie sur son "buzzer" quand il
+veut repondre, le joueur le plus rapide repond en premier...
+Chaque reponse permet de gagner 1, 2 ou 3 points selon la difficulte de la question. Les trois
+premiers joueurs a avoir 9 points sont qualifies pour la deuxieme manche.
+L'ordre des joueurs determine l'ordre de passage durant la deuxieme manche (cf ci-dessous).
+Le joueur qui n'a pas obtenu neuf points est elimine.
+
+2e manche : Quatre a la suite
+Quatre themes sont proposes aux candidats.
+Le premier joueur qualifie choisit son questionnaire parmi ces quatre themes. Il a 40 secondes pour
+repondre a un maximum de questions "d'affilee". Son score sera determine par le nombre de bonnes
+reponses consecutives maximum. S'il obtient quatre bonnes reponses consecutives, le jeu s'arrete et
+son score est donc de 4.
+Le deuxieme joueur procede de meme (mais n'a plus que trois choix de questionnaire).
+Le troisieme joueur egalement (mais n'a le choix qu'entre deux questionnaires).
+Les deux joueurs ayant obtenus le plus grand score sont qualifies. En cas d'egalite, on organise un
+"jeu decisif".
+
+3e manche : Face a face.
+Il s'agit la encore de repondre a des questions (!), mais celles-ci sont plus longues. Le meneur de jeu
+annonce le theme, et l'enonce de la question met sur la voie les joueurs au fur et a mesure...
+Evidemment, plus on repond tard, moins on gagne de points. On peut gagner entre 1 et 4 points.
+Le premier joueur a obtenir 9 points remporte la partie.
+L'arbitre electronique livre dans le jeu permet de reconstituer tres fidelement les regles du jeu
+televise. Ainsi, dans la troisieme manche, il respecte parfaitement les moments qu'on chaque joueur
+pour repondre.
+Enfin, trois laps de temps peuvent etre choisis, selon les capacites du meneur de jeu a avoir 
+l'elocution d'un Julien Lepers.La regle fournie est egalement tres precise sur toutes les situations possibles, se referant
+parfaitement au jeu tele. Il y a meme les commentaires mot-a-mot faits pendant le jeu !
